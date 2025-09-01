@@ -15,3 +15,4 @@ Hey everyone! This is my public github profile.
 - I bartend fulltime at [Porcupine Pub & Grill](https://porcupinepub.com/)\
 
 
+![Resume Preview](resume.png)
