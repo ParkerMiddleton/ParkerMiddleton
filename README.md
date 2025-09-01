@@ -13,5 +13,6 @@ Hey everyone! This is my public github profile.
 - I have a [pretty cool website](http://Parker-Middleton-Portfolio.com)
 - I love to lift weights
 - I bartend fulltime at [Porcupine Pub & Grill](https://porcupinepub.com/)\
-![Resume](resume.pdf)
+![Resume Preview](images/resume.png)
+
 
