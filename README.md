@@ -1,16 +1,16 @@
-## Hi there 👋
+## Parker Adam Middleton
 
-<!--
-**ParkerMiddleton/ParkerMiddleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey everyone! This is my public github profile. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Things to know about me
+- Computer Science Major
+  - Senior
+  - Anticipated Graduation May '26
+- Favorite Topics Include
+  - Deep Learning
+  - Database Systems
+  - Creating cool things
+- I have a [pretty cool website](http://Parker-Middleton-Portfolio.com)
+- I love to lift weights
+- I bartend fulltime at [Porcupine Pub & Grill](https://porcupinepub.com/)\
+[📄 Resume](https://github.com/ParkerMiddleton/Resume/raw/main/resume.pdf)
