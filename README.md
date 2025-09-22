@@ -1,15 +1,15 @@
-## Parker Adam Middleton
+# Parker Adam Middleton
 
-Hey everyone! This is my public github profile. 
+Hey everyone! Welcome to my GitHub profle!
+---
 
-###### Things to know about me
-- Computer Science Major
-  - Senior
-  - Anticipated Graduation May '26
-- Favorite Topics Include
-  - Deep Learning
-  - Database Systems
-  - Creating cool things
-- I have a [pretty cool website](http://Parker-Middleton-Portfolio.com)
-- I love to lift weights
-- I bartend fulltime at [Porcupine Pub & Grill](https://porcupinepub.com/)
+### About Me
+- **Major:** Computer Science (Senior, Expected May 2026)  
+- **Interests:** Deep Learning, Database Systems, Building cool projects  
+- **Website:** [Parker-Middleton Portfolio](https://Parker-Middleton-Portfolio.com)  
+- **Hobbies:** Lifting weights, bartending  
+
+### Work
+- Bartend full-time at [Porcupine Pub & Grill](https://porcupinepub.com/)
+
+---
